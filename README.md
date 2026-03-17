@@ -1,10 +1,12 @@
-# Flutter Clicker
+# Water Tracker
 
-A simple Flutter clicker application that demonstrates basic state management and UI interactions.
+A simple Flutter application to track daily water consumption with automatic daily reset functionality.
 
 ## Features
 
-- Simple counter that increments when you tap the floating action button
+- Track glasses of water consumed throughout the day
+- Automatic daily reset at midnight using SharedPreferences
+- Persistent storage of water intake data
 - Clean Material Design 3 UI
 - State management using StatefulWidget
 
